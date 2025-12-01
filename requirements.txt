@@ -1,0 +1,12 @@
+# Streamlit app runtime
+streamlit>=1.20.0
+
+# Data handling
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Optional (only needed if you use pyngrok locally for exposing dev server)
+# pyngrok>=5.0.0
+
+# Utilities (keep small)
+python-dateutil>=2.8.2
